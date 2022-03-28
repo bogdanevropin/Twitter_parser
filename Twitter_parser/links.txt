@@ -1,0 +1,17 @@
+https://twitter.com/nyalinch/followers
+
+CNqHwZTnd8U5xtLHPVmnD2AbC  # API key
+JIymCer47CJGyuwVrSfpP67qOqzIRRV2GlxO5hwIXLPQZRV6z5  # API key secret
+AAAAAAAAAAAAAAAAAAAAAOkWawEAAAAADIvCikj81d1ixNXA5ZouFl9536Q%3DTZhrdCJg7uA8GgF7zqHGVEZflj0q0iIedj0HcJ4daMXHjr5rIu  # Bearer Token
+
+
+https://www.youtube.com/watch?v=hIGBUl6fqwg&ab_channel=StevesieData  # explanation
+
+https://console.gnip.com/users/sign_in  # social media API
+
+https://docs.tweepy.org/en/stable/  # documentation
+https://developer.twitter.com/en
+https://a-parser.com/resources/364/  # resources
+
+
+https://stackoverflow.com/questions/58440313/how-to-parse-twitter-followers-of-a-certain-account
